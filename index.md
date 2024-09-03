@@ -196,5 +196,5 @@ My journey starts here.
 
 <div>
 <button><a href="http://student_2025/about/">About</a></button>
-button><a href="http://student_2025/MyJourney/">My Journey</a></button>
+<button><a href="http://student_2025/MyJourney/">My Journey</a></button>
 </div>
