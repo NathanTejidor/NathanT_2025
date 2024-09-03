@@ -191,7 +191,7 @@ My journey starts here.
 
 </script>
 <div>
-<button>some button text</button>
+<button>BUTTON</button>
 </div>
 
 <div>
