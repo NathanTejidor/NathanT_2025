@@ -1,15 +1,12 @@
-title: Nighthawk Pages 
+title: Nathan
 description: "Class of 2025"
-<<<<<<< HEAD
 owner_name: Nathan Tejidor
-=======
 owner_name: NathanT_2025
->>>>>>> 2adc115 (Changed name from student)
 github_username: nighthawkcoders
 github_repo: "student_2025" 
 baseurl: "/student_2025"
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
@@ -17,7 +14,7 @@ minima:
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
