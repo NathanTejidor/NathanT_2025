@@ -2,9 +2,9 @@ title: Nathan
 description: "Class of 2025"
 owner_name: Nathan Tejidor
 owner_name: NathanT_2025
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+github_username: NathanTejidor
+github_repo: "NathanT_2025" 
+baseurl: "/NathanT_2025"
 future: true
 # remote_theme: jekyll/minima
 minima:
