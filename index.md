@@ -195,7 +195,7 @@ My journey starts here.
 </div>
 
 <div>
-<button><a href="http://student_2025/about/">About</a></button>
+<button><a href="https://www.youtube.com/watch?v=7B8YGZBeX8A">Music as you explore</a></button>
 <button><a href="http://student_2025/MyJourney/">My Journey</a></button>
 </div>
 
@@ -204,7 +204,7 @@ My journey starts here.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Button Click Counter</h1>
+    <h1>Click Counter</h1>
     <div id="counter">0</div>
     <button onclick="incrementCounter()">CLICK HERE</button>
 
