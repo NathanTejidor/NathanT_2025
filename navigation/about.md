@@ -9,8 +9,8 @@ My name is Nathan Tejidor. I am 15 and a sophomore at Del Norte Highschool. I am
 <span>
 <img src="{{site.baseurl}}/images/phillipines_flag.png" alt="flag image" width="300"/>
 <div>
-<img src="{{site.baseurl}}/images/Dog1.jpg" alt="dog 1" width="200"/>
-<img src="{{site.baseurl}}/images/Dog2.jpg" alt="dog 2" height="200" width="150"/>
+<img src="{{site.baseurl}}/images/Dog1.JPG" alt="dog 1" width="200"/>
+<img src="{{site.baseurl}}/images/Dog2.JPG" alt="dog 2" height="200" width="150"/>
 </div>
 </span>
 
