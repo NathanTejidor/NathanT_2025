@@ -14,9 +14,9 @@ My name is Nathan Tejidor. I am 15 and a sophomore at Del Norte Highschool. I am
 
 I've lived in San Diego all my life and I have travelled to many different places over the years. Heres a list of the ones that I remember:
 <ul>
-<li> Manila, Phillipines </li>
-<li> Quezon City, Phillipines </li>
-<li> Tagaytay, Phillipines </li>
+<li> Manila, Philippines </li>
+<li> Quezon City, Philippines </li>
+<li> Tagaytay, Philippines </li>
 <li> Jerusalem, Israel </li>
 <li> Barcelona, Spain</li>
 <li> Honolulu, Hawaii </li>

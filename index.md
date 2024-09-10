@@ -196,6 +196,5 @@ My journey starts here.
 
 <div>
 <button><a href="https://www.youtube.com/watch?v=7B8YGZBeX8A">Music as you explore</a></button>
-<button><a href="http://student_2025/MyJourney/">My Journey</a></button>
 </div>
 
