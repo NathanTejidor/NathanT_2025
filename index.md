@@ -199,22 +199,3 @@ My journey starts here.
 <button><a href="http://student_2025/MyJourney/">My Journey</a></button>
 </div>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>Click Counter</h1>
-    <div id="counter">0</div>
-    <button onclick="incrementCounter()">CLICK HERE</button>
-
-    <script>
-        // Initialize counter variable
-        let count = 0;
-        // Function to increment counter and update display
-        function incrementCounter() {
-            count++;
-            document.getElementById('counter').innerText = count;
-        }
-    </script>
-</body>
