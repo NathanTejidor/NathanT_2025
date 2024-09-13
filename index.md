@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Nathan Tejidor's Page 
+title: Nathan Tejidor
 description: Home Page
 image: /images/mario_animation.png
 hide: true
