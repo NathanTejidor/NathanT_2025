@@ -191,7 +191,7 @@ My journey starts here.
 
 </script>
 <div>
-<button>BUTTON</button>
+<button><a href="https://nathantejidor.github.io/NathanT_2025/posts/py-hack">Emoji Page</a></button>
 </div>
 
 <div>
