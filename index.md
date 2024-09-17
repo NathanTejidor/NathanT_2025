@@ -198,4 +198,7 @@ My journey starts here.
 <button><a href="https://www.youtube.com/watch?v=7B8YGZBeX8A">Music as you explore</a></button>
 </div>
 <div>
-<button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button>
+<button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
+</div>
+<button><a href="https://nathantejidor.github.io/NathanT_2025/posts/py-hack">Emoji Page</a></button>
+</div>
