@@ -200,5 +200,5 @@ My journey starts here.
 <div>
 <button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
 </div>
-<button><a href="https://nathantejidor.github.io/NathanT_2025/posts/py-hack">Emoji Page</a></button>
+<button><a href="https://nathantejidor.github.io/NathanT_2025/cookieclicker/">Emoji Page</a></button>
 </div>
