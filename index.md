@@ -201,4 +201,3 @@ My journey starts here.
 <button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
 </div>
 <button><a href="https://nathantejidor.github.io/NathanT_2025/cookieclicker/">Emoji Page</a></button>
-</div>
