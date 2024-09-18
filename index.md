@@ -195,9 +195,9 @@ My journey starts here.
 </div>
 
 <div>
-<button><a href="https://www.youtube.com/watch?v=7B8YGZBeX8A">Music as you explore</a></button>
+  <button><a href="https://www.youtube.com/watch?v=7B8YGZBeX8A">Music as you explore</a></button>
 </div>
 <div>
-<button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
+  <button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
 </div>
-<button><a href="https://nathantejidor.github.io/NathanT_2025/cookieclicker/">Emoji Page</a></button>
+  <button><a href="https://nathantejidor.github.io/NathanT_2025/cookieclicker/">Emoji Page</a></button>
