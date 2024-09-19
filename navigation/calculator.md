@@ -3,7 +3,6 @@ layout: post
 title: Calculator 
 permalink: /calculator/
 description: Calc, short for calculator btw if you didn't know
-categories: [Javascript]
 toc: true
 comments: false
 ---
