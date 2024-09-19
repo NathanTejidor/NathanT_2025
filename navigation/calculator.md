@@ -4,7 +4,6 @@ title: Calculator
 permalink: /calculator/
 description: Calc, short for calculator btw if you didn't know
 categories: [Javascript]
-menu: nav/javascript_project.html
 toc: true
 comments: false
 ---
