@@ -24,3 +24,12 @@ I've lived in San Diego all my life and I have travelled to many different place
 <li> Pisa, Italy </li>
 <li> Rome, Italy </li>
 </ul>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="NathanTejidor/NathanT_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
