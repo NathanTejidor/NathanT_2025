@@ -15,6 +15,8 @@ permalink: /cookieclicker/
   let counter = 0;
   document.getElementById('cookie').addEventListener('click', function() {
     counter++;
+    var cookieAudio = new Audio("../assets/chomp.mp3");
+  cookieAudio.play();
     document.getElementById('counter').textContent = counter;
   });
 </script>
