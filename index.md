@@ -201,3 +201,5 @@ My journey starts here.
   <button><a href="https://nathantejidor.github.io/NathanT_2025/snake/">Snake</a></button> 
 </div>
   <button><a href="https://nathantejidor.github.io/NathanT_2025/cookieclicker/">Cookie Clicker</a></button>
+
+ <img src="{{site.baseurl}}/images/code_for_home.jpeg" alt="code code code"/>
