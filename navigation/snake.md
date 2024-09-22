@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snake
+title: Snake 🐍
 permalink: /snake/
 ---
 

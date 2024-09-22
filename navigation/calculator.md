@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calculator 
+title: Calculator ➗
 permalink: /calculator/
 description: Calc, short for calculator btw if you didn't know
 toc: true
