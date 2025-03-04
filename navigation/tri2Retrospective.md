@@ -215,7 +215,7 @@ I am overall **pretty happy** with my MCQ score, as I still made it into the **g
 | **Strengths & Weaknesses Reflection** | 1    | 0.9      |
 | **Next Steps for Project**        | 1         | 0.9      |
 | **Summary Sent 24 Hours Before Review** | -   | ✅      |
-| **Final Average**                | **10**    | **0.9**  |
+| **Final Average**                | **10**    | **0.91**  |
 
 
 🔹 **Final Thoughts:** I believe I should be at a **.9** for most topics.  
