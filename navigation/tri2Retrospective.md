@@ -151,7 +151,7 @@ I am overall **pretty happy** with my MCQ score, as I still made it into the **g
 
 📸 **Screenshot:**  
 ![Study Buddy]({{site.baseurl}}/images/studyBuddypage.JPG)
-<img src="{{site.baseurl}}/images/legendarymotorsportproof.JPG" alt="code code code"/>
+<img src="{{site.baseurl}}/images/studybuddyproof.JPG" alt="code code code"/> 
 
 
 ### 🚗 **Legendary Motorsport**  
@@ -161,6 +161,7 @@ I am overall **pretty happy** with my MCQ score, as I still made it into the **g
 📸 **Screenshot:**  
 ![Legendary Motorsport]({{site.baseurl}}/images/legendaryMotorsports.JPG)  
 <img src="{{site.baseurl}}/images/studybuddyproof.JPG" alt="code code code"/> 
+<img src="{{site.baseurl}}/images/legendarymotorsportproof.JPG" alt="code code code"/>
 
 ### 📈 **Stocks Viewer**  
 - **Favorite Feature:** Simulated stock trading, allowing users to practice **buying and selling stocks** with fake currency.  
