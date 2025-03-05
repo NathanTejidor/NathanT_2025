@@ -214,18 +214,18 @@ I am overall **pretty happy** with my MCQ score, as I still made it into the **g
 | **Category**                      | **Points** | **Score** |
 |-----------------------------------|-----------|-----------|
 | **5 Things Over 12 Weeks**       | 5         | 0.9 each |
-| **Full Stack Project Demo**       | 2         | 0.9 each |
+| **Full Stack Project Demo**       | 2         | 0.9 |
 | **Project Feature Blog Write-up** | 1         | 0.92      |
 | **MCQ**                          | 1         | 0.9      |
-| **Retrospective Reflection**      | 1         | 0.9      |
+| **Retrospective Reflection**      | 1         | 0.92      |
 | **Engagement at N@tM**           | 1         | 0.92     |
 | **Future Plans in CompSci**       | 1         | 0.9      |
-| **Strengths & Weaknesses Reflection** | 1    | 0.9      |
+| **Strengths & Weaknesses Reflection** | 1    | 0.94      |
 | **Next Steps for Project**        | 1         | 0.9      |
 | **Summary Sent 24 Hours Before Review** | -   | ✅      |
-| **Final Average**                | **10**    | **0.91**  |
+| **Final Average**                | **10**    | **0.92**  |
 
 
-🔹 **Final Thoughts:** I believe I should be at a **.9** for most topics.  
+🔹 **Final Thoughts:** I believe I should be at a **.92** for most topics.  
 
 ---
