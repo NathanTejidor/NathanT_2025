@@ -82,6 +82,12 @@ permalink: /Tri-2-Retrospective/
     text-align: center;
     color: #1B1464;
   }
+
+  .large-image {
+    width: 600px; 
+    height: auto;
+}
+
 </style>
 
 # 🎯 Tri 2 Retrospective  
@@ -93,7 +99,8 @@ permalink: /Tri-2-Retrospective/
 - ✅ **Basic static recipes** for users added for the main function of the website's random recipes.  
 - ✅ **Testing APIs** using Postman before implementing them in the frontend. Learning what the messages in Postman mean, e.g., **<span class="highlight">404, 200, 201, and 500</span>**.  
 - ✅ **Improving team work**, at first I worked more by myself which limited me.  
-- ✅ **CPT Requirements:** Used a **dictionary** for recipe APIs, implementing **sequencing, iteration, and selection**.  
+- ✅ **CPT Requirements:** Used a **dictionary** for recipe APIs, implementing **sequencing, iteration, and selection**. 
+<img class="large-image" src="{{site.baseurl}}/images/dictionaryexample.png" alt="code code code"/>
 - ✅ **Tracking progress** with my team using a **Kanban board**.  
   - 🔗 [GitHub Project Board](https://github.com/users/lalita1809/projects/1/views/1)  
 
